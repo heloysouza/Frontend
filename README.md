@@ -30,3 +30,5 @@ Este projeto é um sistema simples de **autenticação de usuários** em **HTML,
 ---
 
 ## 🖥️ Estrutura dos Arquivos
+
+Este projeto é um sistema simples de **autenticação de usuários** em **HTML, CSS e JavaScript**, integrado a uma API hospedada no **Render**. Ele permite que o usuário faça **cadastro**, **login** e acesse uma **área restrita (Dashboard)**.
